@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MasterOrc
 - 👀 I’m interested in Video games
-- 🌱 I’m currently learning C#
 - 📫 How to reach me masterorc185@gmail.com
 
 <!---
